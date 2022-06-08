@@ -4,7 +4,7 @@
 ## Gereklilikler
 -> Python 3.6 ve üzeri sürümleri
 
-##UYGULAMA İŞLEYİŞİ
+## UYGULAMA İŞLEYİŞİ
 
 * RaspberryPi 3;
 
