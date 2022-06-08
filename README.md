@@ -1,5 +1,5 @@
 # Thermal Sensor Application Based on IoT and Socket Programming on Mobile Platform
- Lisans programımda Tasarım projesi kapsamında geliştirilmiştir, AMG8851 termal sensör ve RaspberryPi  3 kullanılmıştır.
+ Lisans programımda Tasarım projesi kapsamında geliştirilmiştir, AMG8851 termal sensör ve RaspberryPi  3 kullanılmıştır. Python Soket programlama ile gerçek zamanlı veri akışı sağlanmıştır.
 
 ## Gereklilikler
 -> Python 3.6 ve üzeri sürümleri
