@@ -37,3 +37,5 @@ Gerekli kütüphaneler:
 ->Adım 2: client.py dosyasını klonladıktan sonra ilgili dizindeki terminale "python client.py" komutunu yazarak kodu çalıştırabilirsiniz. Bu sayede raspberry'nin
 gönderdiği sensör verilerini soket bağlantısı ile gerçek zamanlı alarak, client tarafında verileri interpole ederek ekrana termal görüntüyü çizdirebilirsiniz.
 
+## Önemli Not
+Çalışmanın makale olarak yayınlanmış hali Düzce Bilim Dergisi onaylanan makaleler bölümünde bulunmaktadır.
