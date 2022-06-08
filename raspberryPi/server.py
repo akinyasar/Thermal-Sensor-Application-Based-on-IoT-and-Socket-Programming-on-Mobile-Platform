@@ -4,8 +4,6 @@ sys.path.append('../')
 import amg8833_i2c
 import numpy as np
 from time import sleep
-import matplotlib.pyplot as plt
-from scipy import interpolate
 
 import socket
 
